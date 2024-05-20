@@ -13,9 +13,9 @@ const Approach = () => {
 
       <div className="my-20 flex flex-col lg:flex-row items-center justify-center gap-4">
         <Card
-          title="Planning & Strategy"
-          icon={<AceternityIcon order="Phase 1" />}
-          description="We'll collaborate to map out your website's goals, target audience, and key functionalities. We'll discuss things like site structure, navigation, and content requirements."
+          title="Innovative"
+          icon={<AceternityIcon order="Innovative" />}
+          description="Continuously seek out new technologies and techniques to deliver modern, cutting-edge web solutions that meet and exceed client expectations."
         >
           <CanvasRevealEffect
             animationSpeed={5.1}
@@ -23,9 +23,9 @@ const Approach = () => {
           />
         </Card>
         <Card
-          title="Development & Progress Update"
-          icon={<AceternityIcon order="Phase 2" />}
-          description="We'll collaborate to map out your website's goals, target audience, and key functionalities. We'll discuss things like site structure, navigation, and content requirements."
+          title="Detail-oriented"
+          icon={<AceternityIcon order="Detail-oriented" />}
+          description="Maintain a high standard of precision and accuracy in coding, ensuring that all projects are error-free, optimized, and maintainable."
         >
           <CanvasRevealEffect
             animationSpeed={3}
@@ -38,9 +38,9 @@ const Approach = () => {
           />
         </Card>
         <Card
-          title="Development & Launch"
-          icon={<AceternityIcon order="Phase 3" />}
-          description="We'll collaborate to map out your website's goals, target audience, and key functionalities. We'll discuss things like site structure, navigation, and content requirements."
+          title="Reliable"
+          icon={<AceternityIcon order="Reliable" />}
+          description="Consistently meet deadlines and deliver high-quality work. Dependable team player who can be trusted to complete tasks efficiently and effectively."
         >
           <CanvasRevealEffect
             animationSpeed={3}
