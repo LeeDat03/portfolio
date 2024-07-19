@@ -72,6 +72,22 @@ export const gridItems = [
 
 export const projects = [
   {
+    id: 5,
+    title: "CodeOverflow",
+    des: "Code Overflow, a modern platform inspired by Stack Overflow, designed to help developers ask and answer coding questions efficiently",
+    img: "/code-overflow.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/react-query.svg"],
+    link: "https://github.com/LeeDat03/overflow-web",
+  },
+  {
+    id: 6,
+    title: "PhoneCase Cobra",
+    des: "The app is an online e-commerce platform that allows users to upload images and fully customize their phone cases. Users can select from various case styles, add personalized images, and adjust designs to create a unique phone case tailored to their preferences",
+    img: "/phonecase-cobra.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/react-query.svg"],
+    link: "https://github.com/LeeDat03/overflow-web",
+  },
+  {
     id: 1,
     title: "Promptify",
     des: "An application that allows users to store and share AI-generated prompts with everyone!",
